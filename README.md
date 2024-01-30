@@ -29,7 +29,7 @@ of classic vehicles and transportation.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : Errors and empty values were seen in the columns, which will be eliminated.
 - Step 5 : In the report view, under the view tab, theme was selected.
-- Step 6 : Since data is about sales then card visual is chosen to show kpy. 
+- Step 6 : Since data is about sales then card visual is chosen to show kpi. 
 - Step 7 : Visual filters (Slicers) were added for date.
 - Step 8 : Eight card visuals were added to the canvas, they are Total sales and six commodities sales perecntage.
 ![total sales kpi](https://github.com/aniketpawar123/Project-Axon/assets/123149177/0f6771eb-8b6f-47a3-8eed-c62a02cacccf)
