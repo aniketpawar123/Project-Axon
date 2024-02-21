@@ -52,54 +52,59 @@ of classic vehicles and transportation.
 
 ### Sales Report summary
 
-1. Overall Sales Overview:
+#### 1. Overall Sales Overview:
 
-    • The company has achieved a commendable total sales figure of $9.06 million.
-• Classic cars dominate the sales landscape, constituting the highest percentage at 40.82%, while trains exhibit the lowest sales 
-percentage at 1.99%.
+ • The company has achieved a commendable total sales figure of $9.06 million.
+    
+ • Classic cars dominate the sales landscape, constituting the highest percentage at 40.82%, while trains exhibit the lowest sales percentage at 1.99%.
 
-2. Top Performing Countries:
+#### 2. Top Performing Countries:
 
-• The top five countries contributing significantly to sales are the USA, Spain, 
- France, Australia, and the UK.
-• Ireland, on the other hand, registers the lowest sales among all countries.
+ • The top five countries contributing significantly to sales are the USA, Spain, France, Australia, and the UK.
+    
+ • Ireland, on the other hand, registers the lowest sales among all countries.
 
-3. Profit Margin Analysis:
+#### 3. Profit Margin Analysis:
 
-• Motorcycles emerge as the most lucrative category with a high profit margin of 42.08%, contributing to a total sale of $120k.
-• Despite classic cars leading in sales, their profit margin is comparatively lower than motorcycles.
+ • Motorcycles emerge as the most lucrative category with a high profit margin of 42.08%, contributing to a total sale of $120k.
+    
+ • Despite classic cars leading in sales, their profit margin is comparatively lower than motorcycles.
 
-4. Performance of Trains and Ships:
+#### 4. Performance of Trains and Ships:
 
-• Trains and ships exhibit modest total sales figures of $20k and $70k, respectively.
-• However, their profit margins stand out at 34.73% and 39.33%, demonstrating solid profitability.
+ • Trains and ships exhibit modest total sales figures of $20k and $70k, respectively.
+    
+ • However, their profit margins stand out at 34.73% and 39.33%, demonstrating solid profitability.
 
-5. Top Customers and Vendors:
+#### 5. Top Customers and Vendors:
 
-• Euro Shopping Channel emerges as the top customer, contributing significantly with a total sales figure of $821k.
-• Classic Metal Creations leads as the top vendor, boasting a substantial total sales figure of $883k.
+ • Euro Shopping Channel emerges as the top customer, contributing significantly with a total sales figure of $821k.
+    
+ • Classic Metal Creations leads as the top vendor, boasting a substantial total sales figure of $883k.
 
-6. Monthly Performance:
+####  6. Monthly Performance:
+ 
+ • November consistently stands out with the highest total sales and the highest profit across all years
 
-• November consistently stands out with the highest total sales and the highest profit across all years
+#### Employee report summary:
 
-### Employee report summary:
+#### 1. Top Sales Performer:
 
-1. Top Sales Performer:
-
-• Hernandez Gerard, based in the France office, emerges as the top-performing sales employee.
+ • Hernandez Gerard, based in the France office, emerges as the top-performing sales employee.
+    
 • Gerard has achieved an impressive total sales figure of $1.26 million, showcasing exceptional sales 
 prowess.
 
-2. Lowest Sales Achievement:
+#### 2. Lowest Sales Achievement:
 
-• Marsh Peter, representing the Sydney office in Australia,
- has the lowest sales among the team.
-• Peter has contributed sales amounting to $110k.
+ • Marsh Peter, representing the Sydney office in Australia, has the lowest sales among the team.
+    
+ • Peter has contributed sales amounting to $110k.
 
-3. Office Performance Rankings:
+#### 3. Office Performance Rankings:
 
-• Paris office takes the lead in performance, achieving the highest total sales of $3.1 million.
-• Following closely are London, San Francisco, and NYC, with robust sales figures.
-• Boston, Sydney, and Tokyo exhibit commendable efforts, with Tokyo securing the lowest position, 
-achieving total sales of $400k.
+ • Paris office takes the lead in performance, achieving the highest total sales of $3.1 million.
+    
+ • Following closely are London, San Francisco, and NYC, with robust sales figures.
+    
+ • Boston, Sydney, and Tokyo exhibit commendable efforts, with Tokyo securing the lowest position, achieving total sales of $400k.
