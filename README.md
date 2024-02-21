@@ -54,7 +54,7 @@ of classic vehicles and transportation.
 
 1. Overall Sales Overview:
 
-• The company has achieved a commendable total sales figure of $9.06 million.
+    • The company has achieved a commendable total sales figure of $9.06 million.
 • Classic cars dominate the sales landscape, constituting the highest percentage at 40.82%, while trains exhibit the lowest sales 
 percentage at 1.99%.
 
