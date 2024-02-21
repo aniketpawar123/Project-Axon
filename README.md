@@ -86,7 +86,7 @@ of classic vehicles and transportation.
  
  • November consistently stands out with the highest total sales and the highest profit across all years
 
-#### Employee report summary:
+### Employee report summary:
 
 #### 1. Top Sales Performer:
 
